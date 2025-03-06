@@ -2,6 +2,4 @@
 
 #Future Web Application Developer
 
-#Tech Stack \n
-
-
+#Tech Stack 
