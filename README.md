@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Jose Antonio
 
-#Future Web Application Developer
+### 🚀 Future Web Application Developer
 
-#Technologies I use
+### 🛠️ Technologies I use
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,9 +27,14 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-#My statistics
+### 📊 My GitHub Statistics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=joseprogrammer25&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseprogrammer25&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</div>
 
-#Languages Most Used
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=joseprogrammer25&layout=compact&theme=radical)
+### 💻 Languages Most Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprogrammer25&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
