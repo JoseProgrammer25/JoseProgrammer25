@@ -29,4 +29,4 @@
 
 #My statistics
 
-![JoseProgrammer25 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseProgrammer25&show_icons=true&theme=radical)
+{Link: github-readme-stats de joseprogrammer25 https://github.com/joseprogrammer25/github-readme-stats}
