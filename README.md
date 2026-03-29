@@ -29,12 +29,9 @@
 
 ### 📊 My GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseprogrammer25&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</div>
-
-### 💻 Languages Most Used
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprogrammer25&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
+<p align="center">
+  <a href="https://github.com/JoseProgrammer25/">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseProgrammer25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=282828&title_color=458588&icon_color=689D6A&text_color=ebdbb2" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseProgrammer25&layout=compact&langs_count=8&hide_border=true&bg_color=282828&title_color=458588&text_color=ebdbb2" />
+  </a>
+</p>
