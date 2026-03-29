@@ -29,7 +29,7 @@
 
 #My statistics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=joseprogrammer25&show_icons=true&theme=radical)
 
 #Languages Most Used
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=joseprogrammer25&layout=compact&theme=radical)
